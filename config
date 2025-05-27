@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+[remote "origin"]
+	url = https://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:x-oauth-basic@github.com/Techa4t/magical-binturong-skip.git
